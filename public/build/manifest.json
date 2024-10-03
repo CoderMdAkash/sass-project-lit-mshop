@@ -1,0 +1,258 @@
+{
+  "resources/css/style.css": {
+    "file": "assets/style-l0sNRNKZ.js",
+    "name": "style",
+    "src": "resources/css/style.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-z-Rg4TxU.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/superadmin/css/animate.css": {
+    "file": "assets/animate-Bizzjmns.css",
+    "src": "resources/superadmin/css/animate.css",
+    "isEntry": true
+  },
+  "resources/superadmin/css/bootstrap.min.css": {
+    "file": "assets/bootstrap-D_MSbokH.css",
+    "src": "resources/superadmin/css/bootstrap.min.css",
+    "isEntry": true
+  },
+  "resources/superadmin/css/dataTables.bootstrap4.min.css": {
+    "file": "assets/dataTables.bootstrap4-BX5jHtPk.css",
+    "src": "resources/superadmin/css/dataTables.bootstrap4.min.css",
+    "isEntry": true
+  },
+  "resources/superadmin/css/style.css": {
+    "file": "assets/style-BOUDrjJ2.css",
+    "src": "resources/superadmin/css/style.css",
+    "isEntry": true
+  },
+  "resources/superadmin/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min-CWETG-jn.js",
+    "name": "bootstrap.bundle.min",
+    "src": "resources/superadmin/js/bootstrap.bundle.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/js/custom.js": {
+    "file": "assets/custom-Baq0Ggk0.js",
+    "name": "custom",
+    "src": "resources/superadmin/js/custom.js",
+    "isEntry": true
+  },
+  "resources/superadmin/js/dataTables.bootstrap4.min.js": {
+    "file": "assets/dataTables.bootstrap4.min-DGFZqy6L.js",
+    "name": "dataTables.bootstrap4.min",
+    "src": "resources/superadmin/js/dataTables.bootstrap4.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/js/feather.min.js": {
+    "file": "assets/feather.min-BK7H84Fh.js",
+    "name": "feather.min",
+    "src": "resources/superadmin/js/feather.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/js/jquery-3.6.0.min.js": {
+    "file": "assets/jquery-3.6.0.min-5GtrIU7X.js",
+    "name": "jquery-3.6.0.min",
+    "src": "resources/superadmin/js/jquery-3.6.0.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/js/jquery.dataTables.min.js": {
+    "file": "assets/jquery.dataTables.min-BXVriRjt.js",
+    "name": "jquery.dataTables.min",
+    "src": "resources/superadmin/js/jquery.dataTables.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/js/jquery.slimscroll.min.js": {
+    "file": "assets/jquery.slimscroll.min-BUhg6WNK.js",
+    "name": "jquery.slimscroll.min",
+    "src": "resources/superadmin/js/jquery.slimscroll.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/js/script.js": {
+    "file": "assets/script-Dz76R1rp.js",
+    "name": "script",
+    "src": "resources/superadmin/js/script.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/apexchart/apexcharts.min.js": {
+    "file": "assets/apexcharts.min-2reWpsx9.js",
+    "name": "apexcharts.min",
+    "src": "resources/superadmin/plugins/apexchart/apexcharts.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/apexchart/chart-data.js": {
+    "file": "assets/chart-data-C7sJp9Q_.js",
+    "name": "chart-data",
+    "src": "resources/superadmin/plugins/apexchart/chart-data.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/drag_drop_image/image-uploader.min.css": {
+    "file": "assets/image-uploader-Gd_bwURN.css",
+    "src": "resources/superadmin/plugins/drag_drop_image/image-uploader.min.css",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/drag_drop_image/image-uploader.min.js": {
+    "file": "assets/image-uploader.min-45pOk5l0.js",
+    "name": "image-uploader.min",
+    "src": "resources/superadmin/plugins/drag_drop_image/image-uploader.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/dragula/css/dragula.min.css": {
+    "file": "assets/dragula-BTAcnjs3.css",
+    "src": "resources/superadmin/plugins/dragula/css/dragula.min.css",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/dragula/js/drag-drop.min.js": {
+    "file": "assets/drag-drop.min-Dy66k303.js",
+    "name": "drag-drop.min",
+    "src": "resources/superadmin/plugins/dragula/js/drag-drop.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/dragula/js/dragula.min.js": {
+    "file": "assets/dragula.min-BjvcC2-R.js",
+    "name": "dragula.min",
+    "src": "resources/superadmin/plugins/dragula/js/dragula.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/fontawesome/css/all.min.css": {
+    "file": "assets/all-dObuMHBs.css",
+    "src": "resources/superadmin/plugins/fontawesome/css/all.min.css",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/fontawesome/css/fontawesome.min.css": {
+    "file": "assets/fontawesome-f-XrQqDt.css",
+    "src": "resources/superadmin/plugins/fontawesome/css/fontawesome.min.css",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400-1.eot": {
+    "file": "assets/fa-brands-400-DNXCI7vV.eot",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.eot"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-DNXCI7vV.eot",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.eot"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-oFLvx_U2.svg",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.svg"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-BMj94tJl.ttf",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.ttf"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-CwMhTPFj.woff",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.woff"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-UEZeU8cs.woff2",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-brands-400.woff2"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400-1.eot": {
+    "file": "assets/fa-regular-400-azyMXj7c.eot",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.eot"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-azyMXj7c.eot",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.eot"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-CLGGrRKN.svg",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.svg"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-RK6M3Auz.ttf",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.ttf"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-DtFYXIM2.woff",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.woff"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-DK7qvToU.woff2",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-regular-400.woff2"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900-1.eot": {
+    "file": "assets/fa-solid-900-B6e-Hhi-.eot",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.eot"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-B6e-Hhi-.eot",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.eot"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-CcuCRYoc.svg",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.svg"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-CWs4lwq8.ttf",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.ttf"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-BiAi1MSV.woff",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.woff"
+  },
+  "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-C19_HPqg.woff2",
+    "src": "resources/superadmin/plugins/fontawesome/webfonts/fa-solid-900.woff2"
+  },
+  "resources/superadmin/plugins/summernote/font/summernote-1.eot": {
+    "file": "assets/summernote-DScJrmJ1.eot",
+    "src": "resources/superadmin/plugins/summernote/font/summernote.eot"
+  },
+  "resources/superadmin/plugins/summernote/font/summernote.eot": {
+    "file": "assets/summernote-DScJrmJ1.eot",
+    "src": "resources/superadmin/plugins/summernote/font/summernote.eot"
+  },
+  "resources/superadmin/plugins/summernote/font/summernote.ttf": {
+    "file": "assets/summernote-4XkBPIRA.ttf",
+    "src": "resources/superadmin/plugins/summernote/font/summernote.ttf"
+  },
+  "resources/superadmin/plugins/summernote/font/summernote.woff": {
+    "file": "assets/summernote-DEekNz6a.woff",
+    "src": "resources/superadmin/plugins/summernote/font/summernote.woff"
+  },
+  "resources/superadmin/plugins/summernote/font/summernote.woff2": {
+    "file": "assets/summernote-PMqM9czq.woff2",
+    "src": "resources/superadmin/plugins/summernote/font/summernote.woff2"
+  },
+  "resources/superadmin/plugins/summernote/summernote-bs4.min.css": {
+    "file": "assets/summernote-bs4-C881w4NF.css",
+    "src": "resources/superadmin/plugins/summernote/summernote-bs4.min.css",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/summernote/summernote-bs4.min.js": {
+    "file": "assets/summernote-bs4.min-B8qPgj2b.js",
+    "name": "summernote-bs4.min",
+    "src": "resources/superadmin/plugins/summernote/summernote-bs4.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/sweetalert/sweetalert2.all.min.js": {
+    "file": "assets/sweetalert2.all.min-B_D2QAE2.js",
+    "name": "sweetalert2.all.min",
+    "src": "resources/superadmin/plugins/sweetalert/sweetalert2.all.min.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/toastr/toastr.css": {
+    "file": "assets/toastr-DQIqTgdg.css",
+    "src": "resources/superadmin/plugins/toastr/toastr.css",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/toastr/toastr.js": {
+    "file": "assets/toastr-y3Y8LIgV.js",
+    "name": "toastr",
+    "src": "resources/superadmin/plugins/toastr/toastr.js",
+    "isEntry": true
+  },
+  "resources/superadmin/plugins/toastr/toastr.min.js": {
+    "file": "assets/toastr.min-C3uFlap9.js",
+    "name": "toastr.min",
+    "src": "resources/superadmin/plugins/toastr/toastr.min.js",
+    "isEntry": true
+  }
+}
