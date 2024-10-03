@@ -8,7 +8,7 @@ $(document).ready(function () {
     var ajax_url = location.hash.replace(/^#/, '');
 
     if (ajax_url.length < 1) {
-        ajax_url = 'dashboard';
+        ajax_url = opening_url;
         window.location.hash = ajax_url;
     } else {
         $(".anchor").removeClass('active');

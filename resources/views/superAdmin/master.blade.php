@@ -30,7 +30,6 @@
     ])
 
 </head>
-
 <body>
 
     <div class="main-wrapper">
@@ -50,7 +49,8 @@
     </div>
 
     <script>
-        var base_url = "{{ url('/') }}";
+        var base_url = "{{ $module_url }}";
+        var opening_url = "{{ $opening_url }}";
     </script>
     
     @vite([
